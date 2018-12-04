@@ -18,11 +18,11 @@ And actually, China is the only country in the earth where Google Services are c
 "By 'returning to China', Google can help improving the quality of search results in Mainland China, and avoiding the tragic happended to Wei Zexi?" That's ridiculous.
 ------------------------------------------------------------
 
-1. In constrast to what is claimed in [2], Baidu has been **always infamous for** "auction-ranking advertising" (Manipulating the search result by how much you pay to them.) **Even when Google is still in China.**
+1. In constrast to what is claimed in [2], Baidu has been **always infamous for** "auction-ranking advertising" (manipulating the search result by how much you pay to them.) **Even when Google is still in China.**
 
-2. Baidu has **always** been holding most of the share of search engine in China, **this is not related whether or not Google is in China**. Comparing the market share of Baidu on Mar 2010 and Oct 2018, it just increases from  55.57% to 65.05%. While in Apr 2014, after Google's "exiting", Baidu's market share dropped to 50.69%.
+2. Baidu has **always** been holding most of the share of search engine in China, **this is not related whether or not Google is in China**. Comparing the market share of Baidu in Mar 2010 and Oct 2018, it just increases from  55.57% to 65.05%. While in Apr 2014, after Google's "exiting", Baidu's market share dropped to 50.69%.
 
-3. The tragic happended to Wei Zexi is mainly **due to Chinese authority**. **Those hospitals performing expensive, yet ineffective treatment are actually legal in China.**, with no change to this circumstance. **No search engine can avoid such tragic because they have no reason to reject legal advertisers paying them.**
+3. The tragic happended to Wei Zexi is mainly **due to Chinese authority**. **Those hospitals performing expensive, yet ineffective treatment are actually legal in China.** With no change to this circumstance, **no search engine can avoid such tragic because they have no reason to reject legal advertisers paying them.**
 
 # 同样作为中国大陆人，我为什么坚决反对「蜻蜓」项目
 近日，一篇题为〈我是中国人，Google 的蜻蜓项目必须继续〉<sup>[1]</sup>的文章开始在 GitHub 上传播。文章作者强调说「百度竞价排名广告臭名昭著，很多人受骗上当、损失金钱、健康受损，甚至死亡」，并举例「魏则西」事件，称 Google 「返华」将有助于避免此类事件。该文作者同时列举了一个数据，称 Google 「返华」将拯救 551,615,600 名百度使用者，这些人——按照作者的话说——「因为对技术的不了解」，成为了「受害者」，而「他们理应有更好的技术选择！」
