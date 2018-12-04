@@ -1,3 +1,21 @@
+(Note that the English version is NOT written by a professional translator, and it's merely an abstract of the full Chinese version.)
+
+# Also as a mainland Chinese, why do I resolutely oppose Google's dragonfly project
+
+Google "exited" from China? What was going on? Should google be responsible for those 551,615,600 users in China who cannot use Google services?
+-------------------------------------------------------------------
+Of course it's totally Google's freedom to decide who it wants to provide service for. **However, Google did nothing to forbid those 551,615,600 users in China Mainland to use Google's service."**
+
+In the so-called "Google 'exited' from China" event, **the only thing they did is shutting down google.cn, and redirect it to google.com.hk**.
+
+However, those available Google services (including google.com.hk), were disturbed, and finally, gradually blocked by the PRC government, with **Google taking no further action.**. Obviously, the only reason those 551,615,600 users have no access to Google's service is **the increasing network censorship in Mainland China**.
+
+Ironically, the original author of <sup>[2]</sup> claimed that "your small group to deprive them of the technical benefits". I 
+would response by asking, "By 'we small group' who you are referring to? What have we done? And what power do we have?"
+
+And actually, China is the only country in the earth where Google Services are completely unavailable.
+
+
 # 同样作为中国大陆人，我为什么坚决反对「蜻蜓」项目
 近日，一篇题为〈我是中国人，Google 的蜻蜓项目必须继续〉<sup>[1]</sup>的文章开始在 GitHub 上传播。文章作者强调说「百度竞价排名广告臭名昭著，很多人受骗上当、损失金钱、健康受损，甚至死亡」，并举例「魏则西」事件，称 Google 「返华」将有助于避免此类事件。该文作者同时列举了一个数据，称 Google 「返华」将拯救 551,615,600 名百度使用者，这些人——按照作者的话说——「因为对技术的不了解」，成为了「受害者」，而「他们理应有更好的技术选择！」
 
